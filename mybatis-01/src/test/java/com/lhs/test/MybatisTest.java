@@ -1,6 +1,6 @@
 package com.lhs.test;
 
-import com.lhs.mybatis.bean.User;
+import com.lhs.mybatis.mapper.bean.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
